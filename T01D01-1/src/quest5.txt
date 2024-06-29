@@ -1,0 +1,5 @@
+1. Открыл файл конфигурации первой двери с помощью команды: nano door_management_files/door_configuration/door_1.conf
+2. Изменил статус CLOSED на OPEN
+3. Вышел с помощь Control+X
+4. Подтвердил изменения с помощью Y
+5. Сохранил файл с помощью Enter

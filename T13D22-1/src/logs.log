@@ -1,0 +1,16 @@
+INFO 00:01:22 Файл "text.txt" открыт
+ERROR 00:01:31 Файл "adf" не был открыт
+INFO 00:01:49 Файл "text.txt" открыт
+INFO 00:01:58 Файл "text.txt" открыт
+INFO 00:01:58 В файл "text.txt" записана строка
+INFO 00:02:18 Директория "./ai_modules" открыта
+INFO 00:02:18 Файл "./ai_modules/m1.c" был зашифрован
+WARNING 00:02:18 Файл "./ai_modules/m1.h" был изменён
+INFO 00:02:18 Файл "./ai_modules/m2.c" был зашифрован
+WARNING 00:02:18 Файл "./ai_modules/m2.h" был изменён
+INFO 00:02:30 Директория "./ai_modules" открыта
+INFO 00:02:30 Файл "./ai_modules/m1.c" был зашифрован
+WARNING 00:02:30 Файл "./ai_modules/m1.h" был изменён
+INFO 00:02:30 Файл "./ai_modules/m2.c" был зашифрован
+WARNING 00:02:30 Файл "./ai_modules/m2.h" был изменён
+ERROR 00:02:49 Файл "empty.txt" не был открыт
